@@ -1,4 +1,4 @@
-package interview.preparation.kit.warmup.challenges.sock_merchant;
+package interview.preparation.kit.warmup_challenges.sock_merchant;
 
 import static java.util.stream.Collectors.toList;
 
